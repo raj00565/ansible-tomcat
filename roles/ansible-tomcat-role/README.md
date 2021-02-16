@@ -19,7 +19,7 @@ Requirements
 Installation
 ------------
 ```
-$ ansible-galaxy install zaxos.tomcat-ansible-role
+$ ansible-galaxy install ansible-tomcat-role
 ```
 
 Example Playbook
